@@ -1,0 +1,16 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.DS_*
+node_modules
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
